@@ -83,7 +83,7 @@ async function Home() {
               />
             ))
           ) : (
-            <p>There are no interviews available</p>
+            <p>There are no new interviews available</p>
           )}
         </div>
       </section>
